@@ -99,7 +99,7 @@ These steps helped optimize memory usage, improve performance, and prepare the d
 
 ## 📁 Files Included
 
-- <a href="https://github.com/runTimeeRrorOccuRred/Employee_Attrition_Analysis/blob/main/employee_attrition_docs.pdf" download>Employee_Attrition_Analysis_Report.docx</a> — The full Word report  
+- <a href="https://github.com/runTimeeRrorOccuRred/Employee_Attrition_Analysis/blob/main/employee_attrition_docs.pdf" download>Employee_Attrition_Analysis_Report.pdf</a> — The full pdf report  
 - <a href="https://github.com/runTimeeRrorOccuRred/Employee_Attrition_Analysis/blob/main/employee_attrition_analysis.ipynb" download>Attrition_EDA_Notebook.ipynb</a> — Jupyter Notebook with code and visualizations *(if included)*
 
 ---
